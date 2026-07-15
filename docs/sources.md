@@ -2,6 +2,10 @@
 
 Last checked: 2026-07-14
 
+## Trip-Specific Documents
+
+- Global Glympse screenshot shared by JJ on 2026-07-14: trip LT1D-NYC, Las Tablas, Panama, 2026-08-03 to 2026-08-13, leaders, Newark Terminal C guidance, and outbound United 1021 EWR to PTY.
+
 ## Official
 
 - US Department of State: Panama International Travel Information

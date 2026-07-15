@@ -2,7 +2,16 @@
 
 Last checked: 2026-07-14
 
-This is a starter brief for Stephen's Panama trip. It is intentionally practical and should be updated once dates, regions, lodging, and activities are known.
+This is a starter brief for Stephen's Panama trip. Global Glympse details identify the trip as LT1D-NYC to Las Tablas, Panama, from 2026-08-03 to 2026-08-13, with outbound travel from Newark (EWR) to Panama City (PTY).
+
+## Confirmed Trip Details
+
+- Trip code: LT1D-NYC
+- Destination: Las Tablas, Panama
+- Dates: 2026-08-03 to 2026-08-13
+- Trip leaders: Miriam Abdullah and LeShawn Williams
+- Outbound flight: United 1021, Newark (EWR) to Panama City (PTY), 2026-08-03 3:10 PM to 7:30 PM
+- Departure airport guidance: meet at Newark Liberty International Airport Terminal C and arrive 3 hours before departure.
 
 ## Fast Decisions
 
@@ -89,11 +98,12 @@ These are common Panama trip anchors. Choose based on Stephen's dates and intere
 
 ## Next Planning Pass
 
-Once dates and route are known:
+Next details to add:
 
-1. Build a day-by-day itinerary.
-2. Add travel times and booking links.
-3. Add lodging and transfer details.
-4. Add a weather-specific packing pass.
-5. Add food/activity options by area.
-6. Add an emergency/contact sheet.
+1. Add return flight details.
+2. Confirm the exact Terminal C meeting point.
+3. Confirm same-day transfer or overnight plan after arrival in Panama City.
+4. Add lodging and local transfer details for Las Tablas.
+5. Build a day-by-day itinerary.
+6. Add a weather-specific packing pass for Las Tablas in August.
+7. Add an emergency/contact sheet.

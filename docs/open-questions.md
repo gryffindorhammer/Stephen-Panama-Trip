@@ -4,14 +4,15 @@ Fill these in to turn the prep packet into a real plan.
 
 ## Trip Basics
 
-- Exact dates:
-- Arrival airport:
-- Departure airport:
+- Exact dates: 2026-08-03 to 2026-08-13.
+- Arrival airport: Panama City (PTY), outbound flight from Newark (EWR).
+- Departure airport: Return details not visible in the shared screenshot.
 - Number of travelers:
 - Ages/constraints:
 - Budget range:
 - Lodging style:
 - Pace preference:
+- Trip leaders: Miriam Abdullah and LeShawn Williams.
 
 ## Route
 
@@ -25,12 +26,14 @@ Fill these in to turn the prep packet into a real plan.
 
 ## Logistics
 
-- Flights booked?
+- Flights booked? Outbound United 1021 EWR to PTY is visible; return flight still needed.
 - Lodging booked?
 - Domestic flights or shuttles needed?
 - Car rental planned?
 - Phone plan/eSIM chosen?
 - Travel insurance purchased?
+- Exact Global Glympse meeting point inside Newark Terminal C?
+- Transfer plan from Panama City to Las Tablas?
 
 ## Health and Safety
 

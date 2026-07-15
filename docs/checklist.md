@@ -2,8 +2,9 @@
 
 ## Before Booking
 
-- [ ] Confirm trip dates.
-- [ ] Confirm arrival and departure airport.
+- [x] Confirm trip dates: 2026-08-03 to 2026-08-13.
+- [x] Confirm arrival airport: Panama City (PTY) on the outbound itinerary.
+- [ ] Confirm return/departure airport and return flight.
 - [ ] Decide regions: Panama City, Canal/nature, Boquete, Bocas del Toro, San Blas/Guna Yala, Pacific coast, other.
 - [ ] Confirm travel companions and room needs.
 - [ ] Decide budget range and comfort level.
@@ -11,7 +12,7 @@
 
 ## 4-8 Weeks Before
 
-- [ ] Book flights.
+- [ ] Confirm all flights; outbound United 1021 EWR to PTY is known, return details still needed.
 - [ ] Book lodging.
 - [ ] Decide whether the itinerary includes malaria-risk areas.
 - [ ] Schedule travel clinic or primary care visit if needed.
@@ -87,5 +88,6 @@
 - [ ] Passport in personal item.
 - [ ] Wallet/phone/charger in personal item.
 - [ ] First-night lodging address accessible offline.
+- [ ] Arrive at Newark Liberty International Airport Terminal C by 12:10 PM for the 3:10 PM departure, unless Global Glympse gives a more specific group meeting time.
 - [ ] Airport transfer plan confirmed.
 - [ ] Key documents shared with a trusted person.
