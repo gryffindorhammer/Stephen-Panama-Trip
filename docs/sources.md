@@ -5,6 +5,10 @@ Last checked: 2026-07-14
 ## Trip-Specific Documents
 
 - Global Glympse screenshot shared by JJ on 2026-07-14: trip LT1D-NYC, Las Tablas, Panama, 2026-08-03 to 2026-08-13, leaders, Newark Terminal C guidance, and outbound United 1021 EWR to PTY.
+- `original-files/global-glympse/2026 Global Glimpse Packing List.pdf`: dress code, packing quantities, luggage guidance, Panama-specific hot/rainy weather and Las Tablas mangrove/reforestation footwear note, spending-money guidance, emergency number.
+- `original-files/global-glympse/2026 Global Glimpse Student Pledge Rules.pdf`: student rules, electronics policy, night rules, free-time/group rules, beach/water rules, dismissal risk.
+- `original-files/global-glympse/2026 National Template Pre-Trip Info Session Slides.pdf`: program overview, health and safety, communication policy, insurance, departure/return guidance, Panama weather, next steps.
+- `original-files/global-glympse/Panama Reading List.pdf`: Panama books, articles, and media recommended by Global Glimpse.
 
 ## Official
 
